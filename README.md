@@ -1,4 +1,4 @@
 adagio3688.github.io
 ====================
 
-Personal website
+This is for my personal website, located at www.trevorrivera.com
